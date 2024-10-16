@@ -1,1 +1,1 @@
-# online-food-ordering-platform
+# Online-food-ordering-platform
