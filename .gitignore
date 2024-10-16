@@ -1,0 +1,14 @@
+#demo video
+*.mp4
+
+#project ppt
+*.pptx
+
+#project report
+*.docx
+
+#project report
+*.pdf
+
+#project zip
+*.zip
